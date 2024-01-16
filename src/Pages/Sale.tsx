@@ -2,7 +2,7 @@ import React from 'react'
 import { useParams } from 'react-router-dom'
 import useFetch from '../Hooks/useFetch'
 import { ISales } from '../Types/ISales'
-import Loading from '../Utils/loading'
+import Loading from '../Utils/Loading'
 
 type ISalesOmitData = Omit<ISales, 'data'>
 
