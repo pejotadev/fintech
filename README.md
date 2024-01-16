@@ -2,7 +2,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-This project is available in 
+This project is available in [https://fintech-psi-nine.vercel.app/](https://fintech-psi-nine.vercel.app/)
 
 Currently, two official plugins are available:
 
